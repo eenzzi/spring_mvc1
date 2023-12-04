@@ -1,8 +1,8 @@
-package hello.servlet.web.prontcontroller.v1.controller;
+package hello.servlet.web.frontcontroller.v1.controller;
 
 import hello.servlet.basic.domain.member.Member;
 import hello.servlet.basic.domain.member.MemberRepository;
-import hello.servlet.web.prontcontroller.v1.ControllerV1;
+import hello.servlet.web.frontcontroller.v1.ControllerV1;
 import jakarta.servlet.RequestDispatcher;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;
